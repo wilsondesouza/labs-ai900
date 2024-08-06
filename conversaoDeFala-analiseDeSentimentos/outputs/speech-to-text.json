@@ -1,0 +1,2472 @@
+[
+    {
+        "Id": "729d4f8c22874a35afb2a3cd95014b10",
+        "RecognitionStatus": 0,
+        "Offset": 1100000,
+        "Duration": 100800000,
+        "Channel": 0,
+        "DisplayText": "Prezada equipe do the Velvet table, embora reconheça a dedicação e o esforço de sua equipe, devo expressar minha decepção com a recente experiência que tive em seu restaurante.",
+        "NBest": [
+            {
+                "Confidence": 0.8553888,
+                "Lexical": "prezada equipe do the velvet table embora reconheça a dedicação e o esforço de sua equipe devo expressar minha decepção com a recente experiência que tive em seu restaurante",
+                "ITN": "prezada equipe do the velvet table embora reconheça a dedicação e o esforço de sua equipe devo expressar minha decepção com a recente experiência que tive em seu restaurante",
+                "MaskedITN": "prezada equipe do the velvet table embora reconheça a dedicação e o esforço de sua equipe devo expressar minha decepção com a recente experiência que tive em seu restaurante",
+                "Display": "Prezada equipe do the Velvet table, embora reconheça a dedicação e o esforço de sua equipe, devo expressar minha decepção com a recente experiência que tive em seu restaurante.",
+                "Words": [
+                    {
+                        "Word": "prezada",
+                        "Offset": 1100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "equipe",
+                        "Offset": 7100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 11100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 12300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "velvet",
+                        "Offset": 13500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "table",
+                        "Offset": 17500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "embora",
+                        "Offset": 25500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "reconheça",
+                        "Offset": 29100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 34700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "dedicação",
+                        "Offset": 35100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 41900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 42700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "esforço",
+                        "Offset": 43100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 49100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "sua",
+                        "Offset": 50300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "equipe",
+                        "Offset": 51900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "devo",
+                        "Offset": 59100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "expressar",
+                        "Offset": 61900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "minha",
+                        "Offset": 67100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "decepção",
+                        "Offset": 69100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 75100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 77100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "recente",
+                        "Offset": 77900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "experiência",
+                        "Offset": 82700000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 88700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "tive",
+                        "Offset": 89900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 92300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "seu",
+                        "Offset": 93100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "restaurante",
+                        "Offset": 94700000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8553888,
+                "Lexical": "prezada equipe do the velvet table embora reconheça a dedicação e o esforço de sua equipe devo expressar minha decepção com a recente experiência que tive em seu restaurante",
+                "ITN": "prezada equipe do the velvet table embora reconheça a dedicação e o esforço de sua equipe devo expressar minha decepção com a recente experiência que tive em seu restaurante",
+                "MaskedITN": "prezada equipe do the velvet table embora reconheça a dedicação e o esforço de sua equipe devo expressar minha decepção com a recente experiência que tive em seu restaurante",
+                "Display": "prezada equipe do the velvet table embora reconheça a dedicação e o esforço de sua equipe devo expressar minha decepção com a recente experiência que tive em seu restaurante",
+                "Words": [
+                    {
+                        "Word": "prezada",
+                        "Offset": 1100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "equipe",
+                        "Offset": 7100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 11100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 12300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "velvet",
+                        "Offset": 13500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "table",
+                        "Offset": 17500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "embora",
+                        "Offset": 25500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "reconheça",
+                        "Offset": 29100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 34700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "dedicação",
+                        "Offset": 35100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 41900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 42700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "esforço",
+                        "Offset": 43100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 49100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "sua",
+                        "Offset": 50300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "equipe",
+                        "Offset": 51900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "devo",
+                        "Offset": 59100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "expressar",
+                        "Offset": 61900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "minha",
+                        "Offset": 67100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "decepção",
+                        "Offset": 69100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 75100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 77100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "recente",
+                        "Offset": 77900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "experiência",
+                        "Offset": 82700000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 88700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "tive",
+                        "Offset": 89900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 92300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "seu",
+                        "Offset": 93100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "restaurante",
+                        "Offset": 94700000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8553888,
+                "Lexical": "prezada equipe do the velvet table embora reconheça a dedicação e o esforço de sua equipe devo expressar minha decepção com a recente experiência que tive em seu restaurante",
+                "ITN": "prezada equipe do the velvet table embora reconheça a dedicação e o esforço de sua equipe devo expressar minha decepção com a recente experiência que tive em seu restaurante",
+                "MaskedITN": "prezada equipe do the velvet table embora reconheça a dedicação e o esforço de sua equipe devo expressar minha decepção com a recente experiência que tive em seu restaurante",
+                "Display": "prezada equipe do the velvet table embora reconheça a dedicação e o esforço de sua equipe devo expressar minha decepção com a recente experiência que tive em seu restaurante",
+                "Words": [
+                    {
+                        "Word": "prezada",
+                        "Offset": 1100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "equipe",
+                        "Offset": 7100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 11100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 12300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "velvet",
+                        "Offset": 13500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "table",
+                        "Offset": 17500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "embora",
+                        "Offset": 25500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "reconheça",
+                        "Offset": 29100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 34700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "dedicação",
+                        "Offset": 35100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 41900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 42700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "esforço",
+                        "Offset": 43100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 49100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "sua",
+                        "Offset": 50300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "equipe",
+                        "Offset": 51900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "devo",
+                        "Offset": 59100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "expressar",
+                        "Offset": 61900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "minha",
+                        "Offset": 67100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "decepção",
+                        "Offset": 69100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 75100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 77100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "recente",
+                        "Offset": 77900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "experiência",
+                        "Offset": 82700000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 88700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "tive",
+                        "Offset": 89900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 92300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "seu",
+                        "Offset": 93100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "restaurante",
+                        "Offset": 94700000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8553887,
+                "Lexical": "prezada equipe do the velvet table embora reconheça a dedicação e o esforço de sua equipe devo expressar minha decepção com a recente experiência que tive em seu restaurante",
+                "ITN": "prezada equipe do the velvet table embora reconheça a dedicação e o esforço de sua equipe devo expressar minha decepção com a recente experiência que tive em seu restaurante",
+                "MaskedITN": "prezada equipe do the velvet table embora reconheça a dedicação e o esforço de sua equipe devo expressar minha decepção com a recente experiência que tive em seu restaurante",
+                "Display": "prezada equipe do the velvet table embora reconheça a dedicação e o esforço de sua equipe devo expressar minha decepção com a recente experiência que tive em seu restaurante",
+                "Words": [
+                    {
+                        "Word": "prezada",
+                        "Offset": 1100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "equipe",
+                        "Offset": 7100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 11100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 12300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "velvet",
+                        "Offset": 13500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "table",
+                        "Offset": 17500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "embora",
+                        "Offset": 25500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "reconheça",
+                        "Offset": 29100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 34700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "dedicação",
+                        "Offset": 35100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 41900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 42700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "esforço",
+                        "Offset": 43100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 49100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "sua",
+                        "Offset": 50300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "equipe",
+                        "Offset": 51900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "devo",
+                        "Offset": 59100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "expressar",
+                        "Offset": 61900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "minha",
+                        "Offset": 67100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "decepção",
+                        "Offset": 69100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 75100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 77100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "recente",
+                        "Offset": 77900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "experiência",
+                        "Offset": 82700000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 88700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "tive",
+                        "Offset": 89900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 92300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "seu",
+                        "Offset": 93100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "restaurante",
+                        "Offset": 94700000,
+                        "Duration": 4400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8553887,
+                "Lexical": "prezada equipe do the velvet table embora reconheça a dedicação e o esforço de sua equipe devo expressar minha decepção com a recente experiência que tive em seu restaurante",
+                "ITN": "prezada equipe do the velvet table embora reconheça a dedicação e o esforço de sua equipe devo expressar minha decepção com a recente experiência que tive em seu restaurante",
+                "MaskedITN": "prezada equipe do the velvet table embora reconheça a dedicação e o esforço de sua equipe devo expressar minha decepção com a recente experiência que tive em seu restaurante",
+                "Display": "prezada equipe do the velvet table embora reconheça a dedicação e o esforço de sua equipe devo expressar minha decepção com a recente experiência que tive em seu restaurante",
+                "Words": [
+                    {
+                        "Word": "prezada",
+                        "Offset": 1100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "equipe",
+                        "Offset": 7100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 11100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 12300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "velvet",
+                        "Offset": 13500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "table",
+                        "Offset": 17500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "embora",
+                        "Offset": 25500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "reconheça",
+                        "Offset": 29100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 34700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "dedicação",
+                        "Offset": 35100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 41900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 42700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "esforço",
+                        "Offset": 43100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 49100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "sua",
+                        "Offset": 50300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "equipe",
+                        "Offset": 51900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "devo",
+                        "Offset": 59100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "expressar",
+                        "Offset": 61900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "minha",
+                        "Offset": 67100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "decepção",
+                        "Offset": 69100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 75100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 77100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "recente",
+                        "Offset": 77900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "experiência",
+                        "Offset": 82700000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 88700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "tive",
+                        "Offset": 89900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 92300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "seu",
+                        "Offset": 93100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "restaurante",
+                        "Offset": 94700000,
+                        "Duration": 7200000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "0953e3d4d7054c939bf789de06ba6383",
+        "RecognitionStatus": 0,
+        "Offset": 115600000,
+        "Duration": 62800000,
+        "Channel": 0,
+        "DisplayText": "Infelizmente, a qualidade da comida não correspondeu às expectativas, com pratos que careciam de sabor e criatividade.",
+        "NBest": [
+            {
+                "Confidence": 0.9106358,
+                "Lexical": "infelizmente a qualidade da comida não correspondeu às expectativas com pratos que careciam de sabor e criatividade",
+                "ITN": "infelizmente a qualidade da comida não correspondeu às expectativas com pratos que careciam de sabor e criatividade",
+                "MaskedITN": "infelizmente a qualidade da comida não correspondeu às expectativas com pratos que careciam de sabor e criatividade",
+                "Display": "Infelizmente, a qualidade da comida não correspondeu às expectativas, com pratos que careciam de sabor e criatividade.",
+                "Words": [
+                    {
+                        "Word": "infelizmente",
+                        "Offset": 115600000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 120000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "qualidade",
+                        "Offset": 120400000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 125600000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "comida",
+                        "Offset": 126400000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 130400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "correspondeu",
+                        "Offset": 132400000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "às",
+                        "Offset": 138400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "expectativas",
+                        "Offset": 139600000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 151200000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "pratos",
+                        "Offset": 153600000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 158400000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "careciam",
+                        "Offset": 159200000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 163600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "sabor",
+                        "Offset": 164800000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 169600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "criatividade",
+                        "Offset": 171200000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9106358,
+                "Lexical": "infelizmente a qualidade da comida não correspondeu às expectativas com pratos que careciam de sabor e criatividade",
+                "ITN": "infelizmente a qualidade da comida não correspondeu às expectativas com pratos que careciam de sabor e criatividade",
+                "MaskedITN": "infelizmente a qualidade da comida não correspondeu às expectativas com pratos que careciam de sabor e criatividade",
+                "Display": "infelizmente a qualidade da comida não correspondeu às expectativas com pratos que careciam de sabor e criatividade",
+                "Words": [
+                    {
+                        "Word": "infelizmente",
+                        "Offset": 115600000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 120000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "qualidade",
+                        "Offset": 120400000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 125600000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "comida",
+                        "Offset": 126400000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 130400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "correspondeu",
+                        "Offset": 132400000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "às",
+                        "Offset": 138400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "expectativas",
+                        "Offset": 139600000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 151200000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "pratos",
+                        "Offset": 153600000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 158400000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "careciam",
+                        "Offset": 159200000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 163600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "sabor",
+                        "Offset": 164800000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 169600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "criatividade",
+                        "Offset": 171200000,
+                        "Duration": 8400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9106358,
+                "Lexical": "infelizmente a qualidade da comida não correspondeu às expectativas com pratos que careciam de sabor e criatividade",
+                "ITN": "infelizmente a qualidade da comida não correspondeu às expectativas com pratos que careciam de sabor e criatividade",
+                "MaskedITN": "infelizmente a qualidade da comida não correspondeu às expectativas com pratos que careciam de sabor e criatividade",
+                "Display": "infelizmente a qualidade da comida não correspondeu às expectativas com pratos que careciam de sabor e criatividade",
+                "Words": [
+                    {
+                        "Word": "infelizmente",
+                        "Offset": 115600000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 120000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "qualidade",
+                        "Offset": 120400000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 125600000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "comida",
+                        "Offset": 126400000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 130400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "correspondeu",
+                        "Offset": 132400000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "às",
+                        "Offset": 138400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "expectativas",
+                        "Offset": 139600000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 151200000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "pratos",
+                        "Offset": 153600000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 158400000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "careciam",
+                        "Offset": 159200000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 163600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "sabor",
+                        "Offset": 164800000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 169600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "criatividade",
+                        "Offset": 171200000,
+                        "Duration": 8400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9106358,
+                "Lexical": "infelizmente a qualidade da comida não correspondeu às expectativas com pratos que careciam de sabor e criatividade",
+                "ITN": "infelizmente a qualidade da comida não correspondeu às expectativas com pratos que careciam de sabor e criatividade",
+                "MaskedITN": "infelizmente a qualidade da comida não correspondeu às expectativas com pratos que careciam de sabor e criatividade",
+                "Display": "infelizmente a qualidade da comida não correspondeu às expectativas com pratos que careciam de sabor e criatividade",
+                "Words": [
+                    {
+                        "Word": "infelizmente",
+                        "Offset": 115600000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 120000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "qualidade",
+                        "Offset": 120400000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 125600000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "comida",
+                        "Offset": 126400000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 130400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "correspondeu",
+                        "Offset": 132400000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "às",
+                        "Offset": 138400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "expectativas",
+                        "Offset": 139600000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 151200000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "pratos",
+                        "Offset": 153600000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 158400000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "careciam",
+                        "Offset": 159200000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 163600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "sabor",
+                        "Offset": 164800000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 169600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "criatividade",
+                        "Offset": 171200000,
+                        "Duration": 8400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9106358,
+                "Lexical": "infelizmente a qualidade da comida não correspondeu às expectativas com pratos que careciam de sabor e criatividade",
+                "ITN": "infelizmente a qualidade da comida não correspondeu às expectativas com pratos que careciam de sabor e criatividade",
+                "MaskedITN": "infelizmente a qualidade da comida não correspondeu às expectativas com pratos que careciam de sabor e criatividade",
+                "Display": "infelizmente a qualidade da comida não correspondeu às expectativas com pratos que careciam de sabor e criatividade",
+                "Words": [
+                    {
+                        "Word": "infelizmente",
+                        "Offset": 115600000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 120000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "qualidade",
+                        "Offset": 120400000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 125600000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "comida",
+                        "Offset": 126400000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 130400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "correspondeu",
+                        "Offset": 132400000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "às",
+                        "Offset": 138400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "expectativas",
+                        "Offset": 139600000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 151200000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "pratos",
+                        "Offset": 153600000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 158400000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "careciam",
+                        "Offset": 159200000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 163600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "sabor",
+                        "Offset": 164800000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 169600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "criatividade",
+                        "Offset": 171200000,
+                        "Duration": 8400000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "2da693a7194945fc838e045fe810c2b0",
+        "RecognitionStatus": 0,
+        "Offset": 191900000,
+        "Duration": 179200000,
+        "Channel": 0,
+        "DisplayText": "Além disso, o serviço embora Cortez foi lento e desorganizado, resultando em uma experiência geral abaixo do esperado. Espero, sinceramente, que estas questões possam ser abordadas para garantir que todos os clientes desfrutem de uma experiência verdadeiramente excepcional no develovet table.",
+        "NBest": [
+            {
+                "Confidence": 0.86456263,
+                "Lexical": "além disso o serviço embora cortez foi lento e desorganizado resultando em uma experiência geral abaixo do esperado espero sinceramente que estas questões possam ser abordadas para garantir que todos os clientes desfrutem de uma experiência verdadeiramente excepcional no develovet table",
+                "ITN": "além disso o serviço embora cortez foi lento e desorganizado resultando em uma experiência geral abaixo do esperado espero sinceramente que estas questões possam ser abordadas para garantir que todos os clientes desfrutem de uma experiência verdadeiramente excepcional no develovet table",
+                "MaskedITN": "além disso o serviço embora cortez foi lento e desorganizado resultando em uma experiência geral abaixo do esperado espero sinceramente que estas questões possam ser abordadas para garantir que todos os clientes desfrutem de uma experiência verdadeiramente excepcional no develovet table",
+                "Display": "Além disso, o serviço embora Cortez foi lento e desorganizado, resultando em uma experiência geral abaixo do esperado. Espero, sinceramente, que estas questões possam ser abordadas para garantir que todos os clientes desfrutem de uma experiência verdadeiramente excepcional no develovet table.",
+                "Words": [
+                    {
+                        "Word": "além",
+                        "Offset": 191900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "disso",
+                        "Offset": 194700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 197900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "serviço",
+                        "Offset": 199500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "embora",
+                        "Offset": 205500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "cortez",
+                        "Offset": 208700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "foi",
+                        "Offset": 216300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "lento",
+                        "Offset": 218700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 222700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "desorganizado",
+                        "Offset": 223500000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "resultando",
+                        "Offset": 234700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 241100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 241900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "experiência",
+                        "Offset": 243100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "geral",
+                        "Offset": 248300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "abaixo",
+                        "Offset": 253100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 258300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "esperado",
+                        "Offset": 259100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "espero",
+                        "Offset": 272700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "sinceramente",
+                        "Offset": 277500000,
+                        "Duration": 10800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 289100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "estas",
+                        "Offset": 291100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "questões",
+                        "Offset": 293900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "possam",
+                        "Offset": 297900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "ser",
+                        "Offset": 301100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "abordadas",
+                        "Offset": 303100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 309100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "garantir",
+                        "Offset": 310700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 314700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "todos",
+                        "Offset": 316700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "os",
+                        "Offset": 321100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "clientes",
+                        "Offset": 322300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "desfrutem",
+                        "Offset": 327100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 332700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 333500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "experiência",
+                        "Offset": 334700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "verdadeiramente",
+                        "Offset": 340300000,
+                        "Duration": 10000000
+                    },
+                    {
+                        "Word": "excepcional",
+                        "Offset": 350300000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 359500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "develovet",
+                        "Offset": 361100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "table",
+                        "Offset": 365900000,
+                        "Duration": 5200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.86456263,
+                "Lexical": "além disso o serviço embora cortez foi lento e desorganizado resultando em uma experiência geral abaixo do esperado espero sinceramente que estas questões possam ser abordadas para garantir que todos os clientes desfrutem de uma experiência verdadeiramente excepcional no develovet table",
+                "ITN": "além disso o serviço embora cortez foi lento e desorganizado resultando em uma experiência geral abaixo do esperado espero sinceramente que estas questões possam ser abordadas para garantir que todos os clientes desfrutem de uma experiência verdadeiramente excepcional no develovet table",
+                "MaskedITN": "além disso o serviço embora cortez foi lento e desorganizado resultando em uma experiência geral abaixo do esperado espero sinceramente que estas questões possam ser abordadas para garantir que todos os clientes desfrutem de uma experiência verdadeiramente excepcional no develovet table",
+                "Display": "além disso o serviço embora cortez foi lento e desorganizado resultando em uma experiência geral abaixo do esperado espero sinceramente que estas questões possam ser abordadas para garantir que todos os clientes desfrutem de uma experiência verdadeiramente excepcional no develovet table",
+                "Words": [
+                    {
+                        "Word": "além",
+                        "Offset": 191900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "disso",
+                        "Offset": 194700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 197900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "serviço",
+                        "Offset": 199500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "embora",
+                        "Offset": 205500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "cortez",
+                        "Offset": 208700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "foi",
+                        "Offset": 216300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "lento",
+                        "Offset": 218700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 222700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "desorganizado",
+                        "Offset": 223500000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "resultando",
+                        "Offset": 234700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 241100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 241900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "experiência",
+                        "Offset": 243100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "geral",
+                        "Offset": 248300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "abaixo",
+                        "Offset": 253100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 258300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "esperado",
+                        "Offset": 259100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "espero",
+                        "Offset": 272700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "sinceramente",
+                        "Offset": 277500000,
+                        "Duration": 10800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 289100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "estas",
+                        "Offset": 291100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "questões",
+                        "Offset": 293900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "possam",
+                        "Offset": 297900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "ser",
+                        "Offset": 301100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "abordadas",
+                        "Offset": 303100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 309100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "garantir",
+                        "Offset": 310700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 314700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "todos",
+                        "Offset": 316700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "os",
+                        "Offset": 321100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "clientes",
+                        "Offset": 322300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "desfrutem",
+                        "Offset": 327100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 332700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 333500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "experiência",
+                        "Offset": 334700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "verdadeiramente",
+                        "Offset": 340300000,
+                        "Duration": 10000000
+                    },
+                    {
+                        "Word": "excepcional",
+                        "Offset": 350300000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 359500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "develovet",
+                        "Offset": 361100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "table",
+                        "Offset": 365900000,
+                        "Duration": 5200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.86456263,
+                "Lexical": "além disso o serviço embora cortez foi lento e desorganizado resultando em uma experiência geral abaixo do esperado espero sinceramente que estas questões possam ser abordadas para garantir que todos os clientes desfrutem de uma experiência verdadeiramente excepcional no develovet table",
+                "ITN": "além disso o serviço embora cortez foi lento e desorganizado resultando em uma experiência geral abaixo do esperado espero sinceramente que estas questões possam ser abordadas para garantir que todos os clientes desfrutem de uma experiência verdadeiramente excepcional no develovet table",
+                "MaskedITN": "além disso o serviço embora cortez foi lento e desorganizado resultando em uma experiência geral abaixo do esperado espero sinceramente que estas questões possam ser abordadas para garantir que todos os clientes desfrutem de uma experiência verdadeiramente excepcional no develovet table",
+                "Display": "além disso o serviço embora cortez foi lento e desorganizado resultando em uma experiência geral abaixo do esperado espero sinceramente que estas questões possam ser abordadas para garantir que todos os clientes desfrutem de uma experiência verdadeiramente excepcional no develovet table",
+                "Words": [
+                    {
+                        "Word": "além",
+                        "Offset": 191900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "disso",
+                        "Offset": 194700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 197900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "serviço",
+                        "Offset": 199500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "embora",
+                        "Offset": 205500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "cortez",
+                        "Offset": 208700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "foi",
+                        "Offset": 216300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "lento",
+                        "Offset": 218700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 222700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "desorganizado",
+                        "Offset": 223500000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "resultando",
+                        "Offset": 234700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 241100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 241900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "experiência",
+                        "Offset": 243100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "geral",
+                        "Offset": 248300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "abaixo",
+                        "Offset": 253100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 258300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "esperado",
+                        "Offset": 259100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "espero",
+                        "Offset": 272700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "sinceramente",
+                        "Offset": 277500000,
+                        "Duration": 10800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 289100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "estas",
+                        "Offset": 291100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "questões",
+                        "Offset": 293900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "possam",
+                        "Offset": 297900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "ser",
+                        "Offset": 301100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "abordadas",
+                        "Offset": 303100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 309100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "garantir",
+                        "Offset": 310700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 314700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "todos",
+                        "Offset": 316700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "os",
+                        "Offset": 321100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "clientes",
+                        "Offset": 322300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "desfrutem",
+                        "Offset": 327100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 332700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 333500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "experiência",
+                        "Offset": 334700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "verdadeiramente",
+                        "Offset": 340300000,
+                        "Duration": 10000000
+                    },
+                    {
+                        "Word": "excepcional",
+                        "Offset": 350300000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 359500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "develovet",
+                        "Offset": 361100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "table",
+                        "Offset": 365900000,
+                        "Duration": 5200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.86456263,
+                "Lexical": "além disso o serviço embora cortez foi lento e desorganizado resultando em uma experiência geral abaixo do esperado espero sinceramente que estas questões possam ser abordadas para garantir que todos os clientes desfrutem de uma experiência verdadeiramente excepcional no develovet table",
+                "ITN": "além disso o serviço embora cortez foi lento e desorganizado resultando em uma experiência geral abaixo do esperado espero sinceramente que estas questões possam ser abordadas para garantir que todos os clientes desfrutem de uma experiência verdadeiramente excepcional no develovet table",
+                "MaskedITN": "além disso o serviço embora cortez foi lento e desorganizado resultando em uma experiência geral abaixo do esperado espero sinceramente que estas questões possam ser abordadas para garantir que todos os clientes desfrutem de uma experiência verdadeiramente excepcional no develovet table",
+                "Display": "além disso o serviço embora cortez foi lento e desorganizado resultando em uma experiência geral abaixo do esperado espero sinceramente que estas questões possam ser abordadas para garantir que todos os clientes desfrutem de uma experiência verdadeiramente excepcional no develovet table",
+                "Words": [
+                    {
+                        "Word": "além",
+                        "Offset": 191900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "disso",
+                        "Offset": 194700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 197900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "serviço",
+                        "Offset": 199500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "embora",
+                        "Offset": 205500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "cortez",
+                        "Offset": 208700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "foi",
+                        "Offset": 216300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "lento",
+                        "Offset": 218700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 222700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "desorganizado",
+                        "Offset": 223500000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "resultando",
+                        "Offset": 234700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 241100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 241900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "experiência",
+                        "Offset": 243100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "geral",
+                        "Offset": 248300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "abaixo",
+                        "Offset": 253100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 258300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "esperado",
+                        "Offset": 259100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "espero",
+                        "Offset": 272700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "sinceramente",
+                        "Offset": 277500000,
+                        "Duration": 10800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 289100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "estas",
+                        "Offset": 291100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "questões",
+                        "Offset": 293900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "possam",
+                        "Offset": 297900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "ser",
+                        "Offset": 301100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "abordadas",
+                        "Offset": 303100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 309100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "garantir",
+                        "Offset": 310700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 314700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "todos",
+                        "Offset": 316700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "os",
+                        "Offset": 321100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "clientes",
+                        "Offset": 322300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "desfrutem",
+                        "Offset": 327100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 332700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 333500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "experiência",
+                        "Offset": 334700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "verdadeiramente",
+                        "Offset": 340300000,
+                        "Duration": 10000000
+                    },
+                    {
+                        "Word": "excepcional",
+                        "Offset": 350300000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 359500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "develovet",
+                        "Offset": 361100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "table",
+                        "Offset": 365900000,
+                        "Duration": 5200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.86456263,
+                "Lexical": "além disso o serviço embora cortez foi lento e desorganizado resultando em uma experiência geral abaixo do esperado espero sinceramente que estas questões possam ser abordadas para garantir que todos os clientes desfrutem de uma experiência verdadeiramente excepcional no develovet table",
+                "ITN": "além disso o serviço embora cortez foi lento e desorganizado resultando em uma experiência geral abaixo do esperado espero sinceramente que estas questões possam ser abordadas para garantir que todos os clientes desfrutem de uma experiência verdadeiramente excepcional no develovet table",
+                "MaskedITN": "além disso o serviço embora cortez foi lento e desorganizado resultando em uma experiência geral abaixo do esperado espero sinceramente que estas questões possam ser abordadas para garantir que todos os clientes desfrutem de uma experiência verdadeiramente excepcional no develovet table",
+                "Display": "além disso o serviço embora cortez foi lento e desorganizado resultando em uma experiência geral abaixo do esperado espero sinceramente que estas questões possam ser abordadas para garantir que todos os clientes desfrutem de uma experiência verdadeiramente excepcional no develovet table",
+                "Words": [
+                    {
+                        "Word": "além",
+                        "Offset": 191900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "disso",
+                        "Offset": 194700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 197900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "serviço",
+                        "Offset": 199500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "embora",
+                        "Offset": 205500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "cortez",
+                        "Offset": 208700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "foi",
+                        "Offset": 216300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "lento",
+                        "Offset": 218700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 222700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "desorganizado",
+                        "Offset": 223500000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "resultando",
+                        "Offset": 234700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 241100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 241900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "experiência",
+                        "Offset": 243100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "geral",
+                        "Offset": 248300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "abaixo",
+                        "Offset": 253100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 258300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "esperado",
+                        "Offset": 259100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "espero",
+                        "Offset": 272700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "sinceramente",
+                        "Offset": 277500000,
+                        "Duration": 10800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 289100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "estas",
+                        "Offset": 291100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "questões",
+                        "Offset": 293900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "possam",
+                        "Offset": 297900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "ser",
+                        "Offset": 301100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "abordadas",
+                        "Offset": 303100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 309100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "garantir",
+                        "Offset": 310700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 314700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "todos",
+                        "Offset": 316700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "os",
+                        "Offset": 321100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "clientes",
+                        "Offset": 322300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "desfrutem",
+                        "Offset": 327100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 332700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 333500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "experiência",
+                        "Offset": 334700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "verdadeiramente",
+                        "Offset": 340300000,
+                        "Duration": 10000000
+                    },
+                    {
+                        "Word": "excepcional",
+                        "Offset": 350300000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 359500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "develovet",
+                        "Offset": 361100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "table",
+                        "Offset": 365900000,
+                        "Duration": 5200000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "9ab9e36ff03f45669e009012964dfd13",
+        "RecognitionStatus": 0,
+        "Offset": 399200000,
+        "Duration": 21600000,
+        "Channel": 0,
+        "DisplayText": "Atenciosamente, Rupert CAS.",
+        "NBest": [
+            {
+                "Confidence": 0.48706263,
+                "Lexical": "atenciosamente rupert cas",
+                "ITN": "atenciosamente rupert cas",
+                "MaskedITN": "atenciosamente rupert cas",
+                "Display": "Atenciosamente, Rupert CAS.",
+                "Words": [
+                    {
+                        "Word": "atenciosamente",
+                        "Offset": 399200000,
+                        "Duration": 11200000
+                    },
+                    {
+                        "Word": "rupert",
+                        "Offset": 411600000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "cas",
+                        "Offset": 416400000,
+                        "Duration": 4400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.49002093,
+                "Lexical": "atenciosamente rupert kensington",
+                "ITN": "atenciosamente rupert kensington",
+                "MaskedITN": "atenciosamente rupert kensington",
+                "Display": "atenciosamente rupert kensington",
+                "Words": [
+                    {
+                        "Word": "atenciosamente",
+                        "Offset": 399200000,
+                        "Duration": 11200000
+                    },
+                    {
+                        "Word": "rupert",
+                        "Offset": 411600000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "kensington",
+                        "Offset": 416400000,
+                        "Duration": 6400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.49002093,
+                "Lexical": "atenciosamente rupert kensington",
+                "ITN": "atenciosamente rupert kensington",
+                "MaskedITN": "atenciosamente rupert kensington",
+                "Display": "atenciosamente rupert kensington",
+                "Words": [
+                    {
+                        "Word": "atenciosamente",
+                        "Offset": 399200000,
+                        "Duration": 11200000
+                    },
+                    {
+                        "Word": "rupert",
+                        "Offset": 411600000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "kensington",
+                        "Offset": 416400000,
+                        "Duration": 6400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.49002093,
+                "Lexical": "atenciosamente rupert kensington",
+                "ITN": "atenciosamente rupert kensington",
+                "MaskedITN": "atenciosamente rupert kensington",
+                "Display": "atenciosamente rupert kensington",
+                "Words": [
+                    {
+                        "Word": "atenciosamente",
+                        "Offset": 399200000,
+                        "Duration": 11200000
+                    },
+                    {
+                        "Word": "rupert",
+                        "Offset": 411600000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "kensington",
+                        "Offset": 416400000,
+                        "Duration": 6400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.49002093,
+                "Lexical": "atenciosamente rupert kensington",
+                "ITN": "atenciosamente rupert kensington",
+                "MaskedITN": "atenciosamente rupert kensington",
+                "Display": "atenciosamente rupert kensington",
+                "Words": [
+                    {
+                        "Word": "atenciosamente",
+                        "Offset": 399200000,
+                        "Duration": 11200000
+                    },
+                    {
+                        "Word": "rupert",
+                        "Offset": 411600000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "kensington",
+                        "Offset": 416400000,
+                        "Duration": 6400000
+                    }
+                ]
+            }
+        ]
+    }
+]

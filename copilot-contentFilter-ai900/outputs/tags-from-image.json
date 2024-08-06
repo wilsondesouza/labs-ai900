@@ -1,0 +1,58 @@
+{
+  "apim-request-id": "385a9414-d0a4-428c-9d07-09fe2e220a71",
+  "content-length": "659",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "metadata": {
+    "width": 1024,
+    "height": 1024
+  },
+  "tagsResult": {
+    "values": [
+      {
+        "name": "arte",
+        "confidence": 0.9782241582870483
+      },
+      {
+        "name": "pintura",
+        "confidence": 0.9499555826187134
+      },
+      {
+        "name": "estátua",
+        "confidence": 0.9123860597610474
+      },
+      {
+        "name": "locais sagrados",
+        "confidence": 0.8852252960205078
+      },
+      {
+        "name": "santuário",
+        "confidence": 0.8661367893218994
+      },
+      {
+        "name": "igreja",
+        "confidence": 0.862404465675354
+      },
+      {
+        "name": "mulher",
+        "confidence": 0.8593466281890869
+      },
+      {
+        "name": "interior",
+        "confidence": 0.7470357418060303
+      },
+      {
+        "name": "pessoa",
+        "confidence": 0.6777234673500061
+      },
+      {
+        "name": "templo",
+        "confidence": 0.6192891597747803
+      },
+      {
+        "name": "altar",
+        "confidence": 0.5022048950195312
+      }
+    ]
+  }
+}

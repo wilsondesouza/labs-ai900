@@ -1,0 +1,165 @@
+[
+    {
+        "kind": "AbstractiveSummarizationLROResults",
+        "lastUpdateDateTime": "2024-03-24T01:43:02.5159143Z",
+        "status": "succeeded",
+        "results": {
+            "documents": [
+                {
+                    "summaries": [
+                        {
+                            "text": "Thaloria é uma cidade fundada por um povo orgulhoso, descendentes dos antigos druidas e guerreiros celtas, sob a liderança do Rei Bran. A cidade prosperou graças a uma economia inovadora, com uma moeda baseada em créditos de trabalho e igualdade de gênero. Homens e mulheres compartilhavam responsabilidades igualmente, e a justiça era sagrada. Thaloria era uma monarquia conselheira, o rei ou rainha governando com o apoio do Conselho dos Anciãos. No grande salão do Castelo de Avalon, uma pintura retratava a Deusa Arianthe, obra do artista Lysandra.",
+                            "contexts": [
+                                {
+                                    "offset": 0,
+                                    "length": 2017
+                                }
+                            ]
+                        }
+                    ],
+                    "id": "id__2618",
+                    "warnings": []
+                }
+            ],
+            "errors": [],
+            "modelVersion": "latest"
+        }
+    },
+    {
+        "kind": "ExtractiveSummarizationLROResults",
+        "lastUpdateDateTime": "2024-03-24T01:42:59.8354011Z",
+        "status": "succeeded",
+        "results": {
+            "documents": [
+                {
+                    "id": "id__2618",
+                    "sentences": [
+                        {
+                            "text": "Thaloria: A Nação das Mil Faces",
+                            "rankScore": 0.82,
+                            "offset": 0,
+                            "length": 31
+                        },
+                        {
+                            "text": "Há milênios, quando os ventos do norte varriam as colinas verdejantes, os primeiros habitantes de Thaloria se estabeleceram.",
+                            "rankScore": 0.59,
+                            "offset": 51,
+                            "length": 124
+                        },
+                        {
+                            "text": "Eles eram um povo orgulhoso, descendentes dos antigos druidas e guerreiros celtas.",
+                            "rankScore": 0.64,
+                            "offset": 176,
+                            "length": 82
+                        },
+                        {
+                            "text": "Sob a liderança do visionário Rei Bran, eles fundaram a cidade de Avalon, um refúgio de conhecimento, comércio e cultura.",
+                            "rankScore": 1,
+                            "offset": 259,
+                            "length": 121
+                        },
+                        {
+                            "text": "Thaloria prosperou graças a uma economia inovadora.",
+                            "rankScore": 0.82,
+                            "offset": 406,
+                            "length": 51
+                        },
+                        {
+                            "text": "Eles criaram uma moeda baseada em créditos de trabalho, onde cada cidadão contribuía com suas habilidades para a sociedade.",
+                            "rankScore": 0.66,
+                            "offset": 458,
+                            "length": 123
+                        },
+                        {
+                            "text": "Os ferreiros, artistas, agricultores e sábios eram igualmente valorizados.",
+                            "rankScore": 0.49,
+                            "offset": 582,
+                            "length": 74
+                        },
+                        {
+                            "text": "O Conselho dos Economistas supervisionava a distribuição justa de recursos.",
+                            "rankScore": 0.44,
+                            "offset": 657,
+                            "length": 75
+                        },
+                        {
+                            "text": "Thaloria desafiou as normas da época.",
+                            "rankScore": 0.8,
+                            "offset": 754,
+                            "length": 37
+                        },
+                        {
+                            "text": "Homens e mulheres compartilhavam responsabilidades igualmente.",
+                            "rankScore": 0.62,
+                            "offset": 792,
+                            "length": 62
+                        },
+                        {
+                            "text": "As mulheres eram guerreiras, líderes e sacerdotisas.",
+                            "rankScore": 0.61,
+                            "offset": 855,
+                            "length": 52
+                        },
+                        {
+                            "text": "A Rainha Elara, uma estrategista brilhante, liderou o exército em tempos de guerra.",
+                            "rankScore": 0.52,
+                            "offset": 908,
+                            "length": 83
+                        },
+                        {
+                            "text": "A justiça era sagrada em Thaloria.",
+                            "rankScore": 0.89,
+                            "offset": 1089,
+                            "length": 34
+                        },
+                        {
+                            "text": "O Código de Avalon estabelecia direitos e deveres.",
+                            "rankScore": 0.43,
+                            "offset": 1124,
+                            "length": 50
+                        },
+                        {
+                            "text": "Thaloria era uma monarquia conselheira.",
+                            "rankScore": 0.85,
+                            "offset": 1440,
+                            "length": 39
+                        },
+                        {
+                            "text": "O rei ou rainha governava com o apoio do Conselho dos Anciãos, composto por líderes das guildas, sábios e artistas.",
+                            "rankScore": 0.66,
+                            "offset": 1480,
+                            "length": 115
+                        },
+                        {
+                            "text": "Decisões importantes eram tomadas em assembleias públicas, onde todos tinham voz.",
+                            "rankScore": 0.39,
+                            "offset": 1596,
+                            "length": 81
+                        },
+                        {
+                            "text": "Arte na Parede do Castelo",
+                            "rankScore": 0.65,
+                            "offset": 1683,
+                            "length": 25
+                        },
+                        {
+                            "text": "No grande salão do Castelo de Avalon, uma majestosa pintura adornava a parede.",
+                            "rankScore": 0.49,
+                            "offset": 1709,
+                            "length": 78
+                        },
+                        {
+                            "text": "Ela retratava a Deusa Arianthe, protetora da justiça e da igualdade.",
+                            "rankScore": 0.49,
+                            "offset": 1788,
+                            "length": 68
+                        }
+                    ],
+                    "warnings": []
+                }
+            ],
+            "errors": [],
+            "modelVersion": "2023-02-01-preview"
+        }
+    }
+]

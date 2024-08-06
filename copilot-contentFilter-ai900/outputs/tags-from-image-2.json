@@ -1,0 +1,34 @@
+{
+  "apim-request-id": "2721a8da-3651-40f0-b44b-2bc3d79672aa",
+  "content-length": "358",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "metadata": {
+    "width": 1024,
+    "height": 1024
+  },
+  "tagsResult": {
+    "values": [
+      {
+        "name": "texto",
+        "confidence": 0.9909881949424744
+      },
+      {
+        "name": "metal",
+        "confidence": 0.8799688816070557
+      },
+      {
+        "name": "placa comemorativa",
+        "confidence": 0.8528180122375488
+      },
+      {
+        "name": "de madeira",
+        "confidence": 0.7767740488052368
+      },
+      {
+        "name": "placa",
+        "confidence": 0.7518038749694824
+      }
+    ]
+  }
+}

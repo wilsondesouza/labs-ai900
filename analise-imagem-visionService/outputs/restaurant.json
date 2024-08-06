@@ -1,0 +1,114 @@
+{
+  "apim-request-id": "07fef797-6660-4cfd-9da3-c08e0170a39b",
+  "content-length": "1297",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "denseCaptionsResult": {
+    "values": [
+      {
+        "text": "a building with plants on the front",
+        "confidence": 0.7190650105476379,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 1024,
+          "h": 768
+        }
+      },
+      {
+        "text": "a blurry car on the road",
+        "confidence": 0.7331209778785706,
+        "boundingBox": {
+          "x": 843,
+          "y": 577,
+          "w": 179,
+          "h": 122
+        }
+      },
+      {
+        "text": "a building with plants on the roof",
+        "confidence": 0.749528169631958,
+        "boundingBox": {
+          "x": 121,
+          "y": 186,
+          "w": 736,
+          "h": 456
+        }
+      },
+      {
+        "text": "a building with plants on the top",
+        "confidence": 0.6943598389625549,
+        "boundingBox": {
+          "x": 216,
+          "y": 210,
+          "w": 576,
+          "h": 280
+        }
+      },
+      {
+        "text": "a building with plants on the roof",
+        "confidence": 0.7201614379882812,
+        "boundingBox": {
+          "x": 0,
+          "y": 4,
+          "w": 1003,
+          "h": 737
+        }
+      },
+      {
+        "text": "a road with a white line",
+        "confidence": 0.6568859219551086,
+        "boundingBox": {
+          "x": 0,
+          "y": 656,
+          "w": 1009,
+          "h": 103
+        }
+      },
+      {
+        "text": "a building with a balcony",
+        "confidence": 0.6066249012947083,
+        "boundingBox": {
+          "x": 115,
+          "y": 464,
+          "w": 792,
+          "h": 185
+        }
+      },
+      {
+        "text": "a window with glass panes",
+        "confidence": 0.6960545182228088,
+        "boundingBox": {
+          "x": 472,
+          "y": 539,
+          "w": 80,
+          "h": 111
+        }
+      },
+      {
+        "text": "a blurry image of a building",
+        "confidence": 0.7931107878684998,
+        "boundingBox": {
+          "x": 0,
+          "y": 176,
+          "w": 117,
+          "h": 449
+        }
+      },
+      {
+        "text": "a building with a window",
+        "confidence": 0.6029186248779297,
+        "boundingBox": {
+          "x": 421,
+          "y": 276,
+          "w": 178,
+          "h": 99
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "width": 1024,
+    "height": 768
+  }
+}

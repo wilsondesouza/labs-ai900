@@ -1,0 +1,165 @@
+[
+    {
+        "kind": "AbstractiveSummarizationLROResults",
+        "lastUpdateDateTime": "2024-03-24T01:46:15.1597628Z",
+        "status": "succeeded",
+        "results": {
+            "documents": [
+                {
+                    "summaries": [
+                        {
+                            "text": "O Código de Avalon é um código estabelecido pelos cidadãos de Thaloria em nome da Deusa Arianthe para guiar suas vidas e governar a nação. O código apresenta os direitos fundamentais, como o direito à vida e dignidade, a igualdade de gênero e o derecho à educação. O artigo também apresenta seus deveres eresponsabilidades, como contribuir para o bem-estar da nação, justiça e proteção da natureza. O texto também aborda as leis comerciais e economicas, como crédito de trabalho e um comércio justo. O documento também menciona a forma de governo, como monarquia conselheira e Conselho das Matriarcas. O autor espera que o código seja eterno e que a Deusa, Arian the, guie os cidadão à busca da justiça.",
+                            "contexts": [
+                                {
+                                    "offset": 0,
+                                    "length": 2305
+                                }
+                            ]
+                        }
+                    ],
+                    "id": "id__3192",
+                    "warnings": []
+                }
+            ],
+            "errors": [],
+            "modelVersion": "latest"
+        }
+    },
+    {
+        "kind": "ExtractiveSummarizationLROResults",
+        "lastUpdateDateTime": "2024-03-24T01:46:11.9452488Z",
+        "status": "succeeded",
+        "results": {
+            "documents": [
+                {
+                    "id": "id__3192",
+                    "sentences": [
+                        {
+                            "text": "Nós, os cidadãos de Thaloria, em nome da Deusa Arianthe e em busca da justiça e igualdade, estabelecemos este Código de Avalon para guiar nossas vidas e governar nossa nação.",
+                            "rankScore": 0.88,
+                            "offset": 28,
+                            "length": 174
+                        },
+                        {
+                            "text": "Que estas leis sejam gravadas em pedra e em nossos corações, para que todos possam viver em harmonia.",
+                            "rankScore": 0.61,
+                            "offset": 203,
+                            "length": 101
+                        },
+                        {
+                            "text": "Artigo I: Direitos Fundamentais",
+                            "rankScore": 0.35,
+                            "offset": 306,
+                            "length": 31
+                        },
+                        {
+                            "text": "Direito à Vida e Dignidade: Todo cidadão tem o direito inalienável à vida, à liberdade e à dignidade.",
+                            "rankScore": 0.58,
+                            "offset": 338,
+                            "length": 101
+                        },
+                        {
+                            "text": "Nenhum ato de violência ou opressão será tolerado.",
+                            "rankScore": 0.43,
+                            "offset": 440,
+                            "length": 50
+                        },
+                        {
+                            "text": "Igualdade de Gênero: Homens e mulheres são iguais perante a lei.",
+                            "rankScore": 0.47,
+                            "offset": 491,
+                            "length": 64
+                        },
+                        {
+                            "text": "Ambos têm o direito de participar plenamente na sociedade, seja como guerreiros, líderes, artistas ou sábios.",
+                            "rankScore": 0.38,
+                            "offset": 556,
+                            "length": 109
+                        },
+                        {
+                            "text": "Direito à Educação: Cada criança tem o direito de aprender e crescer.",
+                            "rankScore": 0.42,
+                            "offset": 666,
+                            "length": 69
+                        },
+                        {
+                            "text": "As escolas de Avalon devem ser acessíveis a todos, independentemente de sua origem.",
+                            "rankScore": 0.53,
+                            "offset": 736,
+                            "length": 83
+                        },
+                        {
+                            "text": "Dever de Contribuir: Todo cidadão deve contribuir para o bem-estar da nação.",
+                            "rankScore": 0.66,
+                            "offset": 860,
+                            "length": 76
+                        },
+                        {
+                            "text": "Seja através do trabalho, da arte ou do conhecimento, todos têm um papel a desempenhar.",
+                            "rankScore": 0.46,
+                            "offset": 937,
+                            "length": 87
+                        },
+                        {
+                            "text": "Dever de Justiça: A justiça é nossa bússola.",
+                            "rankScore": 0.49,
+                            "offset": 1025,
+                            "length": 44
+                        },
+                        {
+                            "text": "Os juízes do Oráculo de Carvalho devem julgar com imparcialidade, considerando as circunstâncias e o impacto de suas decisões.",
+                            "rankScore": 0.47,
+                            "offset": 1070,
+                            "length": 126
+                        },
+                        {
+                            "text": "Dever de Proteger a Natureza: Somos guardiões da terra.",
+                            "rankScore": 0.42,
+                            "offset": 1197,
+                            "length": 55
+                        },
+                        {
+                            "text": "A destruição irresponsável é um crime contra a Deusa Arianthe.",
+                            "rankScore": 0.41,
+                            "offset": 1316,
+                            "length": 62
+                        },
+                        {
+                            "text": "O Conselho dos Economistas supervisiona a distribuição justa.",
+                            "rankScore": 0.43,
+                            "offset": 1560,
+                            "length": 61
+                        },
+                        {
+                            "text": "Monarquia Conselheira: O rei ou rainha governa com o apoio do Conselho dos Anciãos.",
+                            "rankScore": 0.45,
+                            "offset": 1826,
+                            "length": 84
+                        },
+                        {
+                            "text": "O Conselho das Matriarcas aconselha o rei e garante que todos sejam ouvidos.",
+                            "rankScore": 0.47,
+                            "offset": 2061,
+                            "length": 76
+                        },
+                        {
+                            "text": "Que este Código de Avalon seja eterno, como as raízes das árvores que sustentam nossa nação.",
+                            "rankScore": 0.59,
+                            "offset": 2139,
+                            "length": 92
+                        },
+                        {
+                            "text": "Que a Deusa Arianthe nos guie sempre na busca da justiça e da igualdade.",
+                            "rankScore": 0.61,
+                            "offset": 2232,
+                            "length": 72
+                        }
+                    ],
+                    "warnings": []
+                }
+            ],
+            "errors": [],
+            "modelVersion": "2023-02-01-preview"
+        }
+    }
+]
